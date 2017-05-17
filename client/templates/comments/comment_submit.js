@@ -1,0 +1,3 @@
+Template.commentSubmit.onCreated(function() { 
+   
+});
